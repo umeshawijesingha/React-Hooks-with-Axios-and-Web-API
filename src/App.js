@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import AddTutorial from "./components/add-tutorialsjs";
+import AddTutorial from "./components/add-tutorials.js";
 import Tutorial from "./components/tutorial";
 import TutorialsList from "./components/tutorials-list";
 
